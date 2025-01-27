@@ -11,7 +11,10 @@ In this project, we explored the development of a CNN for **image classification
 Key objectives:  
 - Build and optimize a CNN architecture.  
 - Experiment with hyperparameters and evaluate their impact.  
-- Use data augmentation and other techniques to improve performance.  
+- Use data augmentation and other techniques to improve performance.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/13b77cce-cc52-4616-8e60-937244cf8cb0" alt="Image Description">
+</div>
 
 ---
 
